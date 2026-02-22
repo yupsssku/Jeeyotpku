@@ -5,7 +5,7 @@ error_reporting(0);
 // ============================================================
 // KONFIGURASI - WAJIB SESUAIKAN
 // ============================================================
-define('API_KEY',         'MASUKKAN_API_KEY_RUMAHOTP_ANDA');
+define('API_KEY',         'otp_YLOvdUvCMMVjlAVr');
 define('API_BASE',        'https://www.rumahotp.com');
 define('PROFIT_NOKOS',    500);    // Markup per order (Rp)
 define('PROFIT_DEPOSIT',  500);    // Biaya admin deposit (Rp)
